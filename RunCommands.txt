@@ -1,0 +1,11 @@
+npm install --save
+
+Mongod --dbpath Templab6\DB
+
+npm run-script development
+
+set MONGODB_URI="mongodb+srv://bryce2302:Password@cluster0.9ocoj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+
+
+
+
