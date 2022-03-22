@@ -1,6 +1,6 @@
 npm install --save
 
-Mongod --dbpath Templab6\DB
+Mongod --dbpath DB
 
 npm run-script development
 
